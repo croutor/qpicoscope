@@ -5,6 +5,8 @@ QPicoscope is a QT frontend for Picoscope devices from Picotech.
 
 It actually should support devices from series 2000 and 3000.
 
+This program is now outdated as Picoscope has released a Linux program with much more functionnalities: https://www.picotech.com/downloads/linux
+
 This program is distributed under the GNU LESSER GENERAL PUBLIC LICENSE. See COPYING and COPYING.LESSER to get more info on this license.
 
 II - CREDITS
@@ -63,10 +65,10 @@ IV - BUG REPORT
 
 QPicoscope is free and might be full of bugs!
 
-To report bugs, please visit http://code.google.com/p/qpicoscope/issues/list
+To report bugs, please visit https://github.com/croutor/qpicoscope/issues
 
 
 V - KNOWN ISSUES
 
-please visit http://code.google.com/p/qpicoscope/issues/list
+please visit https://github.com/croutor/qpicoscope/issues
 
